@@ -2,7 +2,7 @@
 - 👀 I’m interested in web scraping and microservices
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on microservices
-- 📫 How to reach me maguireh75@gmail.com
+- 📫 How to reach me ...
 
 <!---
 emmeash/emmeash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
